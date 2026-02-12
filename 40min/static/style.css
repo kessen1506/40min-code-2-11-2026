@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    
+}
+button{
+    background-color: lightblue;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+    hover: {
+        background-color: lightgrey;
+    }
+}
